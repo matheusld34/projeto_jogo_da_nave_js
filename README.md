@@ -10,8 +10,7 @@ Projeto do jogo da nave espacial com JavaScipt &#9992;
 
 # Tecnologias Utilizadas &#128218;
 
-- HTML
-- CSS
+- JavaScript
 
 <br>
 
